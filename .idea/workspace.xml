@@ -76,7 +76,7 @@
       <file leaf-file-name="reg_smoke_test1.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/reg_smoke_test1.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="527" selection-end="527" vertical-scroll-proportion="0.5808656">
+            <state line="14" column="53" selection-start="500" selection-end="500" vertical-scroll-proportion="0.54214126">
               <folding />
             </state>
           </provider>
@@ -825,7 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/reg_smoke_test1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="527" selection-end="527" vertical-scroll-proportion="0.5808656">
+        <state line="14" column="53" selection-start="500" selection-end="500" vertical-scroll-proportion="0.54214126">
           <folding />
         </state>
       </provider>
